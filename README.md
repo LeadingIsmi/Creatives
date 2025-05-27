@@ -65,9 +65,9 @@
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_13-34-27_6178.png" width="300"/>
-  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_14-41-06_5412.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_14-40-41_7869.png" width="300"/>
   <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_21-03-14_7587.png" width="300"/>
-  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_21-13-57_8379.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_21-16-31_2708.png" width="300"/>
 </p>
 
 **Промты к изображениям:**
