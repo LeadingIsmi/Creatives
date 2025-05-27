@@ -61,6 +61,8 @@
    - Доступные значения: от `0` до `2`.
    - Определяет, насколько сильно образ будет влиять на результат. Чем выше значение, тем сильнее влияние.
 
+## Пример генераций
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_13-34-27_6178.png" width="300"/>
   <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_14-41-06_5412.png" width="300"/>
@@ -68,3 +70,9 @@
   <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_21-13-57_8379.png" width="300"/>
 </p>
 
+**Промты к изображениям:**
+
+1. *comic rhino, wearing Easter costume, wearing glasses, holding a cocktail, standing in front of Easter decorations with eggs, white background*
+2. *singing frog, wearing Easter costume, holding a microphone, performing on a stage, white background*
+3. *standing comic succubus, wearing pink Easter dress, bunny hat, posing with Easter egg, white background*
+4. *explorer in Indiana Jones style, with Easter eggs and a map, pointing at a betting slip, white background*
