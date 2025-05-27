@@ -61,3 +61,10 @@
    - Доступные значения: от `0` до `2`.
    - Определяет, насколько сильно образ будет влиять на результат. Чем выше значение, тем сильнее влияние.
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_13-34-27_6178.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_14-41-06_5412.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_21-03-14_7587.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/LeadingIsmi/Creatives/main/outputs/2025-03-03/2025-03-03_21-13-57_8379.png" width="300"/>
+</p>
+
