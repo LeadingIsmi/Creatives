@@ -1,0 +1,1 @@
+FINETUNES = {'rhino': 'a29c4469-af23-4891-9bba-20d67c0a8e64', 'researcher': 'f4f7e6f9-9024-44ce-b22d-8bc3ab84bd36', 'succub': 'e399b503-ff10-46b5-820a-642fd23e028e', 'elvis_frog': '06d461c6-917b-4072-aeed-af3b59a564a9'}
