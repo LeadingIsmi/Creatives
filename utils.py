@@ -16,10 +16,10 @@ from rembg import remove
 from styles import STYLES
 from finetunes import FINETUNES
 
-openai_key = "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"
+openai_key = ""
 openai.api_key = openai_key
 
-flux_key = "927900cc-745e-4db9-9556-3fa7833a46ae"
+flux_key = ""
 
 
 
